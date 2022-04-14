@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "c979907057cb321b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7735f93922154b09",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Practice/100qs.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9914cf49d8c9c59a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6331db80a12825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc27db1a5c1e1623",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "717226c7ceda66ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "896488e4ba0dcbfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "977830e00169043b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d6fab85d70d503e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Practice/100qs.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7735f93922154b09",
+  "lastOpenFiles": [
+    "Practice/100qs.pdf"
+  ]
+}
