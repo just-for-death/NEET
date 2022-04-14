@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "d1528b80d18923bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ef834303ed4799c",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Biology 11th/kebo101.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ef9bbdfc4bdc60f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b699fe5089f0128",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e5355ee0f84d134",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af445327a6842aac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "02d1e2c2922031a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a1d2c22f7e360f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0be5d279cb88a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology 11th/kebo101.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ef834303ed4799c",
+  "lastOpenFiles": [
+    "Biology 11th/kebo101.pdf"
+  ]
+}
