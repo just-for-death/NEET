@@ -1,5 +1,16 @@
 {
   "primary-ceciliamay@@scrollbar-style": "scrollbar__mac",
   "primary-ceciliamay@@inter-alt": true,
-  "primary-ceciliamay@@tabular-nums": true
+  "primary-ceciliamay@@tabular-nums": true,
+  "bubble-space-1@@bs-bubble-presets": "red-velvet",
+  "bubble-space-1@@bs-space-presets": "neoni",
+  "perso@@wys-mode": true,
+  "perso@@accent": "#DA1560",
+  "perso@@invert-background-color": false,
+  "perso@@minimal-icons-on": true,
+  "perso@@title-bar-style": "title-bar-style-1",
+  "perso@@site-title-accent": true,
+  "perso@@menus": "menu-v3",
+  "perso@@menus-font": "font-nav-folder-header",
+  "perso@@black-background-sidebar": false
 }

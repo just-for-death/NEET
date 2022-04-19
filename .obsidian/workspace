@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "944c8c83c97843e6",
@@ -90,6 +91,7 @@
   "active": "5b24f084c1a04ce3",
   "lastOpenFiles": [
     "README.md",
+    "Biology 11th/kebo1ps.pdf",
     "Biology 11th/kebo105.pdf"
   ]
 }
