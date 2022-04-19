@@ -12,5 +12,11 @@
   "perso@@site-title-accent": true,
   "perso@@menus": "menu-v3",
   "perso@@menus-font": "font-nav-folder-header",
-  "perso@@black-background-sidebar": false
+  "perso@@black-background-sidebar": false,
+  "shimmering-focus@@shapes": "round-shapes",
+  "shimmering-focus@@colored-yaml": true,
+  "shimmering-focus@@preset-color-scheme": "classic-colors",
+  "shimmering-focus@@primary-accent-light": "primary-accent-light-blue",
+  "a-unique-id@@the-color": "#FF003F",
+  "Yin and Yang@@d-accent": "#E10EA7"
 }
