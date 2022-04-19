@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e573396589667c9e",
+        "id": "858163dfbb2bca1f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 175
   },
   "right": {
     "id": "944c8c83c97843e6",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,9 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e573396589667c9e",
+  "active": "858163dfbb2bca1f",
   "lastOpenFiles": [
     "README.md",
+    "Botony 11th/Anatomy 1 S.pdf",
+    "Practice/343051.pdf",
     "Biology 11th/kebo1ps.pdf",
     "Biology 11th/kebo105.pdf"
   ]

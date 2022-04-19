@@ -18,5 +18,16 @@
   "shimmering-focus@@preset-color-scheme": "classic-colors",
   "shimmering-focus@@primary-accent-light": "primary-accent-light-blue",
   "a-unique-id@@the-color": "#FF003F",
-  "Yin and Yang@@d-accent": "#E10EA7"
+  "Yin and Yang@@d-accent": "#E10EA7",
+  "catppuccin@@default-font": "Comic-mono",
+  "catppuccin@@background-primary@@dark": "#1C1C1F",
+  "catppuccin@@background-primary-alt@@dark": "#121115",
+  "catppuccin@@background-secondary@@dark": "#121217",
+  "catppuccin@@interactive-normal@@dark": "#0BD7B8",
+  "catppuccin@@interactive-hover@@dark": "#F7025B",
+  "catppuccin@@background-secondary-alt@@dark": "#100F13",
+  "catppuccin@@background-modifier-border@@dark": "#121117",
+  "catppuccin@@background-modifier-success@@dark": "#09E126",
+  "catppuccin@@text-accent@@dark": "#47F95F",
+  "catppuccin@@text-selection@@dark": "#4A4168"
 }
