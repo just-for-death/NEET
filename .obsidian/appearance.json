@@ -4,6 +4,6 @@
   "textFontFamily": "Comic Mono,Comic Sans MS",
   "monospaceFontFamily": "Comic Mono,Comic Sans MS",
   "baseFontSize": 18,
-  "cssTheme": "Minimal",
+  "cssTheme": "Prism",
   "theme": "obsidian"
 }

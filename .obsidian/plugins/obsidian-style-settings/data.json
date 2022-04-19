@@ -53,5 +53,6 @@
   "obsidian-prism-theme@@status-bar-text-color-dt": "pt-status-bar-text-light-dt",
   "obsidian-prism-theme@@pt-scroll-button": true,
   "obsidian-prism-theme@@pt-scroll-hover": false,
-  "minimal-style@@bg3@@dark": "#C0041B"
+  "minimal-style@@bg3@@dark": "#C0041B",
+  "minimal-style@@accent@@dark": "#E40D77"
 }
