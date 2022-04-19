@@ -1,4 +1,9 @@
 {
   "translucency": false,
-  "interfaceFontFamily": "Comic Sans MS"
+  "interfaceFontFamily": "Comic Mono,Comic Sans MS",
+  "textFontFamily": "Comic Mono,Comic Sans MS",
+  "monospaceFontFamily": "Comic Mono,Comic Sans MS",
+  "baseFontSize": 18,
+  "cssTheme": "Primary",
+  "theme": "obsidian"
 }
