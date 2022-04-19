@@ -35,5 +35,14 @@
   "Willemstad-Core@@font-pairings": "fp-manDM",
   "Willemstad-Core@@true-black": true,
   "Willemstad-Core@@no-animations": true,
-  "Willemstad-Core@@tb": "default"
+  "Willemstad-Core@@tb": "default",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-dark-accent-color-red",
+  "obsidian-prism-theme@@color-accent-dt": "#F10761",
+  "obsidian-prism-theme@@background-color-dt": "#000000",
+  "obsidian-prism-theme@@background-blur-dt": 3,
+  "obsidian-prism-theme@@titlebar-style": "pt-default-titlebar",
+  "obsidian-prism-theme@@pt-titlebar-hide-nav-buttons": false,
+  "obsidian-prism-theme@@pt-titlebar-hide-text": true,
+  "obsidian-prism-theme@@pt-solid-titlebar-dt": false
 }
