@@ -44,5 +44,14 @@
   "obsidian-prism-theme@@titlebar-style": "pt-default-titlebar",
   "obsidian-prism-theme@@pt-titlebar-hide-nav-buttons": false,
   "obsidian-prism-theme@@pt-titlebar-hide-text": true,
-  "obsidian-prism-theme@@pt-solid-titlebar-dt": false
+  "obsidian-prism-theme@@pt-solid-titlebar-dt": false,
+  "obsidian-prism-theme@@titlebar-preset-dt": "pt-titlebar-default-dt",
+  "obsidian-prism-theme@@titlebar-background-color-dt": "#111111",
+  "obsidian-prism-theme@@titlebar-text-color-dt": "pt-titlebar-text-accent-dt",
+  "obsidian-prism-theme@@pt-solid-status-bar-dt": false,
+  "obsidian-prism-theme@@status-bar-preset-dt": "pt-status-bar-default-dt",
+  "obsidian-prism-theme@@status-bar-background-color-dt": "#000000",
+  "obsidian-prism-theme@@status-bar-text-color-dt": "pt-status-bar-text-light-dt",
+  "obsidian-prism-theme@@pt-scroll-button": true,
+  "obsidian-prism-theme@@pt-scroll-hover": false
 }
