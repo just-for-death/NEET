@@ -30,7 +30,6 @@
   "catppuccin@@background-modifier-success@@dark": "#09E126",
   "catppuccin@@text-accent@@dark": "#47F95F",
   "catppuccin@@text-selection@@dark": "#4A4168",
-  "minimal-style@@dark-mode-style": "minimal-dark-black",
   "Willemstad-Core@@col-palette": "custom-colors",
   "Willemstad-Core@@font-pairings": "fp-manDM",
   "Willemstad-Core@@true-black": true,
@@ -53,5 +52,6 @@
   "obsidian-prism-theme@@status-bar-background-color-dt": "#000000",
   "obsidian-prism-theme@@status-bar-text-color-dt": "pt-status-bar-text-light-dt",
   "obsidian-prism-theme@@pt-scroll-button": true,
-  "obsidian-prism-theme@@pt-scroll-hover": false
+  "obsidian-prism-theme@@pt-scroll-hover": false,
+  "minimal-style@@bg3@@dark": "#C0041B"
 }
