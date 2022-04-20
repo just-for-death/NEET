@@ -1,7 +1,18 @@
 [
   "obsidian-style-settings",
-  "obsidian-minimal-settings",
   "theme-picker",
-  "discordian-plugin",
-  "obsidian-theme-design-utilities"
+  "obsidian-theme-design-utilities",
+  "table-editor-obsidian",
+  "obsidian-mind-map",
+  "url-into-selection",
+  "obsidian-checklist-plugin",
+  "hotkeysplus-obsidian",
+  "obsidian-charts",
+  "obsidian-dictionary-plugin",
+  "obsidian-autocomplete-plugin",
+  "obsidian-citation-plugin",
+  "obsidian-auto-link-title",
+  "map-of-content",
+  "easy-typing-obsidian",
+  "obsidian-hider"
 ]

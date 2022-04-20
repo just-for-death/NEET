@@ -36,9 +36,9 @@
   "Willemstad-Core@@no-animations": true,
   "Willemstad-Core@@tb": "default",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
-  "obsidian-prism-theme@@dark-accent-color-preset": "pt-dark-accent-color-red",
-  "obsidian-prism-theme@@color-accent-dt": "#F10761",
-  "obsidian-prism-theme@@background-color-dt": "#000000",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-dark-accent-color-pink",
+  "obsidian-prism-theme@@color-accent-dt": "#07E1F1",
+  "obsidian-prism-theme@@background-color-dt": "#0B0909",
   "obsidian-prism-theme@@background-blur-dt": 3,
   "obsidian-prism-theme@@titlebar-style": "pt-default-titlebar",
   "obsidian-prism-theme@@pt-titlebar-hide-nav-buttons": false,
@@ -54,5 +54,7 @@
   "obsidian-prism-theme@@pt-scroll-button": true,
   "obsidian-prism-theme@@pt-scroll-hover": false,
   "minimal-style@@bg3@@dark": "#C0041B",
-  "minimal-style@@accent@@dark": "#E40D77"
+  "minimal-style@@accent@@dark": "#E40D77",
+  "obsidian-prism-theme@@pt-disable-blur": false,
+  "obsidian-prism-theme@@pt-disable-animations": false
 }

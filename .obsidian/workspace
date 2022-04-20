@@ -6,24 +6,12 @@
       {
         "id": "858163dfbb2bca1f",
         "type": "leaf",
-        "dimension": 55.718654434250766,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organic.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "e993f76e52314275",
-        "type": "leaf",
-        "dimension": 44.281345565749234,
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Chemistry 11/Chemistry 11 ch 1.pdf"
           }
         }
       }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179
+    "width": 179,
+    "collapsed": true
   },
   "right": {
     "id": "944c8c83c97843e6",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +79,28 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "69a5bf30e9b7ca85",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "a52930f06dcb4a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce7ab48a03ed764b",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
             }
           }
         ]
@@ -101,10 +112,11 @@
   },
   "active": "858163dfbb2bca1f",
   "lastOpenFiles": [
-    "Organic.md",
     "README.md",
-    "Chemistry 11/Chemistry 11 ch 1.pdf",
+    "Chemistry 11/Organic.md",
     "Botony 11th/Anatomy 1 S.pdf",
+    "Botony 11th/Algae.pdf",
+    "Chemistry 11/Chemistry 11 ch 1.pdf",
     "Practice/343051.pdf",
     "Biology 11th/kebo1ps.pdf",
     "Biology 11th/kebo105.pdf"
