@@ -6,11 +6,12 @@
       {
         "id": "858163dfbb2bca1f",
         "type": "leaf",
+        "dimension": 55.718654434250766,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "Organic.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -18,12 +19,11 @@
       {
         "id": "e993f76e52314275",
         "type": "leaf",
+        "dimension": 44.281345565749234,
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "Chemistry 11/Chemistry 11 ch 1.pdf"
           }
         }
       }
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 179,
-    "collapsed": true
+    "width": 179
   },
   "right": {
     "id": "944c8c83c97843e6",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Organic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e993f76e52314275",
+  "active": "858163dfbb2bca1f",
   "lastOpenFiles": [
+    "Organic.md",
     "README.md",
+    "Chemistry 11/Chemistry 11 ch 1.pdf",
     "Botony 11th/Anatomy 1 S.pdf",
     "Practice/343051.pdf",
     "Biology 11th/kebo1ps.pdf",
