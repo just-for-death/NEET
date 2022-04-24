@@ -7,11 +7,9 @@
         "id": "858163dfbb2bca1f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
-            "source": false
+            "file": "Chemistry 11/annonate.md"
           }
         }
       }
@@ -48,6 +46,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "469dbd1bc82fdce7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chemistry 11/annonate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +104,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "de5092ca25d2ee7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a52930f06dcb4a91",
@@ -122,14 +137,15 @@
   },
   "active": "858163dfbb2bca1f",
   "lastOpenFiles": [
-    "README.md",
+    "Chemistry 11/annonate.md",
     "Organic.md",
+    "Practice/hft 4.pdf",
+    "README.md",
     "Chemistry 11/Organic.md",
     "Botony 11th/Anatomy 1 S.pdf",
     "Botony 11th/Algae.pdf",
     "Chemistry 11/Chemistry 11 ch 1.pdf",
     "Practice/343051.pdf",
-    "Biology 11th/kebo1ps.pdf",
-    "Biology 11th/kebo105.pdf"
+    "Biology 11th/kebo1ps.pdf"
   ]
 }
