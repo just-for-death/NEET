@@ -7,10 +7,8 @@
         "id": "858163dfbb2bca1f",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
-          "state": {
-            "file": "Chemistry 11/annonate.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -75,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry 11/annonate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
