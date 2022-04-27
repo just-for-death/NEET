@@ -7,8 +7,12 @@
         "id": "858163dfbb2bca1f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "STRUCTURAL ORGANISATION IN ANIMALS.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STRUCTURAL ORGANISATION IN ANIMALS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +139,15 @@
   },
   "active": "858163dfbb2bca1f",
   "lastOpenFiles": [
+    "STRUCTURAL ORGANISATION IN ANIMALS.md",
+    "README.md",
+    "wall106.jpg",
     "Chemistry 11/annonate.md",
     "Organic.md",
     "Practice/hft 4.pdf",
-    "README.md",
     "Chemistry 11/Organic.md",
     "Botony 11th/Anatomy 1 S.pdf",
     "Botony 11th/Algae.pdf",
-    "Chemistry 11/Chemistry 11 ch 1.pdf",
-    "Practice/343051.pdf",
-    "Biology 11th/kebo1ps.pdf"
+    "Chemistry 11/Chemistry 11 ch 1.pdf"
   ]
 }
