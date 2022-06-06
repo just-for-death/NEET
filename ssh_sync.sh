@@ -1,6 +1,6 @@
  #!/usr/bin/env sh
 
-SSH_PATH="/home/lucy/Documents/NEET"
+SSH_PATH="/home/elsa/Documents/NEET"
 
 cd "$SSH_PATH"
 
